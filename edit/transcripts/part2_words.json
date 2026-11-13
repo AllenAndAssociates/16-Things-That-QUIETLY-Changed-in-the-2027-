@@ -1,0 +1,1222 @@
+[
+{
+"start": 0.0,
+"end": 0.96,
+"text": " 14th.",
+"words": [
+[
+0.0,
+0.96,
+" 14th."
+]
+]
+},
+{
+"start": 1.18,
+"end": 4.12,
+"text": " Check the new 2027 Part D cost limits.",
+"words": [
+[
+1.18,
+1.34,
+" Check"
+],
+[
+1.34,
+1.56,
+" the"
+],
+[
+1.56,
+1.76,
+" new"
+],
+[
+1.76,
+2.72,
+" 2027"
+],
+[
+2.72,
+3.0,
+" Part"
+],
+[
+3.0,
+3.38,
+" D"
+],
+[
+3.38,
+3.7,
+" cost"
+],
+[
+3.7,
+4.12,
+" limits."
+]
+]
+},
+{
+"start": 4.64,
+"end": 11.58,
+"text": " The standard annual deductible rises from $615 to $700, and your annual out-of-pocket",
+"words": [
+[
+4.64,
+4.8,
+" The"
+],
+[
+4.8,
+5.2,
+" standard"
+],
+[
+5.2,
+5.64,
+" annual"
+],
+[
+5.64,
+6.14,
+" deductible"
+],
+[
+6.14,
+6.64,
+" rises"
+],
+[
+6.64,
+6.94,
+" from"
+],
+[
+6.94,
+7.7,
+" $615"
+],
+[
+7.7,
+8.7,
+" to"
+],
+[
+8.7,
+9.42,
+" $700,"
+],
+[
+10.02,
+10.32,
+" and"
+],
+[
+10.32,
+10.44,
+" your"
+],
+[
+10.44,
+10.9,
+" annual"
+],
+[
+10.9,
+11.12,
+" out"
+],
+[
+11.12,
+11.26,
+"-of"
+],
+[
+11.26,
+11.58,
+"-pocket"
+]
+]
+},
+{
+"start": 11.58,
+"end": 19.32,
+"text": " cap increases from $2,100 to $2,400, after which covered drugs cost $0 for the rest",
+"words": [
+[
+11.58,
+11.92,
+" cap"
+],
+[
+11.92,
+12.38,
+" increases"
+],
+[
+12.38,
+12.72,
+" from"
+],
+[
+12.72,
+13.1,
+" $2"
+],
+[
+13.1,
+13.56,
+",100"
+],
+[
+13.56,
+14.3,
+" to"
+],
+[
+14.3,
+14.8,
+" $2"
+],
+[
+14.8,
+15.34,
+",400,"
+],
+[
+15.96,
+16.4,
+" after"
+],
+[
+16.4,
+16.7,
+" which"
+],
+[
+16.7,
+17.06,
+" covered"
+],
+[
+17.06,
+17.5,
+" drugs"
+],
+[
+17.5,
+17.78,
+" cost"
+],
+[
+17.78,
+18.4,
+" $0"
+],
+[
+18.4,
+18.94,
+" for"
+],
+[
+18.94,
+19.08,
+" the"
+],
+[
+19.08,
+19.32,
+" rest"
+]
+]
+},
+{
+"start": 19.32,
+"end": 19.88,
+"text": " of the year.",
+"words": [
+[
+19.32,
+19.6,
+" of"
+],
+[
+19.6,
+19.62,
+" the"
+],
+[
+19.62,
+19.88,
+" year."
+]
+]
+},
+{
+"start": 20.44,
+"end": 26.88,
+"text": " For those who qualify for extra help, 2027 co-pays are capped at $5.80 for generics",
+"words": [
+[
+20.44,
+20.56,
+" For"
+],
+[
+20.56,
+20.74,
+" those"
+],
+[
+20.74,
+20.94,
+" who"
+],
+[
+20.94,
+21.3,
+" qualify"
+],
+[
+21.3,
+21.58,
+" for"
+],
+[
+21.58,
+21.9,
+" extra"
+],
+[
+21.9,
+22.26,
+" help,"
+],
+[
+22.72,
+23.52,
+" 2027"
+],
+[
+23.52,
+23.74,
+" co"
+],
+[
+23.74,
+24.08,
+"-pays"
+],
+[
+24.08,
+24.3,
+" are"
+],
+[
+24.3,
+24.54,
+" capped"
+],
+[
+24.54,
+24.74,
+" at"
+],
+[
+24.74,
+25.32,
+" $5"
+],
+[
+25.32,
+25.94,
+".80"
+],
+[
+25.94,
+26.34,
+" for"
+],
+[
+26.34,
+26.88,
+" generics"
+]
+]
+},
+{
+"start": 26.88,
+"end": 31.94,
+"text": " and $14.40 for brand name medications at participating pharmacies.",
+"words": [
+[
+26.88,
+27.32,
+" and"
+],
+[
+27.32,
+27.94,
+" $14"
+],
+[
+27.94,
+28.78,
+".40"
+],
+[
+28.78,
+29.26,
+" for"
+],
+[
+29.26,
+29.6,
+" brand"
+],
+[
+29.6,
+29.8,
+" name"
+],
+[
+29.8,
+30.4,
+" medications"
+],
+[
+30.4,
+30.72,
+" at"
+],
+[
+30.72,
+31.32,
+" participating"
+],
+[
+31.32,
+31.94,
+" pharmacies."
+]
+]
+},
+{
+"start": 32.96,
+"end": 33.64,
+"text": " 15th.",
+"words": [
+[
+32.96,
+33.64,
+" 15th."
+]
+]
+},
+{
+"start": 33.64,
+"end": 38.86,
+"text": " The Medicare.gov plan finder now lets you search Medicare Advantage Plans by your specific",
+"words": [
+[
+33.64,
+33.72,
+" The"
+],
+[
+33.72,
+34.12,
+" Medicare"
+],
+[
+34.12,
+34.72,
+".gov"
+],
+[
+34.72,
+35.12,
+" plan"
+],
+[
+35.12,
+35.7,
+" finder"
+],
+[
+35.7,
+35.94,
+" now"
+],
+[
+35.94,
+36.18,
+" lets"
+],
+[
+36.18,
+36.4,
+" you"
+],
+[
+36.4,
+36.64,
+" search"
+],
+[
+36.64,
+37.16,
+" Medicare"
+],
+[
+37.16,
+37.6,
+" Advantage"
+],
+[
+37.6,
+37.98,
+" Plans"
+],
+[
+37.98,
+38.26,
+" by"
+],
+[
+38.26,
+38.44,
+" your"
+],
+[
+38.44,
+38.86,
+" specific"
+]
+]
+},
+{
+"start": 38.86,
+"end": 43.78,
+"text": " doctors and providers\u2014a great starting point, though you should always confirm directly",
+"words": [
+[
+38.86,
+39.42,
+" doctors"
+],
+[
+39.42,
+39.64,
+" and"
+],
+[
+39.64,
+40.7,
+" providers\u2014a"
+],
+[
+40.7,
+40.98,
+" great"
+],
+[
+40.98,
+41.4,
+" starting"
+],
+[
+41.4,
+41.74,
+" point,"
+],
+[
+42.02,
+42.18,
+" though"
+],
+[
+42.18,
+42.3,
+" you"
+],
+[
+42.3,
+42.46,
+" should"
+],
+[
+42.46,
+42.86,
+" always"
+],
+[
+42.86,
+43.32,
+" confirm"
+],
+[
+43.32,
+43.78,
+" directly"
+]
+]
+},
+{
+"start": 43.78,
+"end": 46.42,
+"text": " with your doctor's billing office before enrolling.",
+"words": [
+[
+43.78,
+44.12,
+" with"
+],
+[
+44.12,
+44.28,
+" your"
+],
+[
+44.28,
+44.7,
+" doctor's"
+],
+[
+44.7,
+44.9,
+" billing"
+],
+[
+44.9,
+45.32,
+" office"
+],
+[
+45.32,
+45.78,
+" before"
+],
+[
+45.78,
+46.42,
+" enrolling."
+]
+]
+},
+{
+"start": 46.78,
+"end": 52.62,
+"text": " 16th, and finally, the handbook clarifies original Medicare coverage details, explicitly",
+"words": [
+[
+46.78,
+47.5,
+" 16th,"
+],
+[
+47.58,
+47.68,
+" and"
+],
+[
+47.68,
+48.14,
+" finally,"
+],
+[
+48.54,
+48.64,
+" the"
+],
+[
+48.64,
+49.06,
+" handbook"
+],
+[
+49.06,
+49.76,
+" clarifies"
+],
+[
+49.76,
+50.24,
+" original"
+],
+[
+50.24,
+50.76,
+" Medicare"
+],
+[
+50.76,
+51.18,
+" coverage"
+],
+[
+51.18,
+51.76,
+" details,"
+],
+[
+52.2,
+52.62,
+" explicitly"
+]
+]
+},
+{
+"start": 52.62,
+"end": 58.98,
+"text": " listing urological supplies under prosthetics and specifying that mental health partial hospitalization",
+"words": [
+[
+52.62,
+53.26,
+" listing"
+],
+[
+53.26,
+53.94,
+" urological"
+],
+[
+53.94,
+54.5,
+" supplies"
+],
+[
+54.5,
+54.82,
+" under"
+],
+[
+54.82,
+55.44,
+" prosthetics"
+],
+[
+55.44,
+55.94,
+" and"
+],
+[
+55.94,
+56.52,
+" specifying"
+],
+[
+56.52,
+56.86,
+" that"
+],
+[
+56.86,
+57.24,
+" mental"
+],
+[
+57.24,
+57.56,
+" health"
+],
+[
+57.56,
+57.98,
+" partial"
+],
+[
+57.98,
+58.98,
+" hospitalization"
+]
+]
+},
+{
+"start": 58.98,
+"end": 64.28,
+"text": " applies when a treatment plan requires at least 20 hours of therapeutic services per week.",
+"words": [
+[
+58.98,
+59.68,
+" applies"
+],
+[
+59.68,
+59.92,
+" when"
+],
+[
+59.92,
+60.06,
+" a"
+],
+[
+60.06,
+60.38,
+" treatment"
+],
+[
+60.38,
+60.72,
+" plan"
+],
+[
+60.72,
+61.2,
+" requires"
+],
+[
+61.2,
+61.38,
+" at"
+],
+[
+61.38,
+61.58,
+" least"
+],
+[
+61.58,
+62.04,
+" 20"
+],
+[
+62.04,
+62.38,
+" hours"
+],
+[
+62.38,
+62.6,
+" of"
+],
+[
+62.6,
+63.04,
+" therapeutic"
+],
+[
+63.04,
+63.66,
+" services"
+],
+[
+63.66,
+63.98,
+" per"
+],
+[
+63.98,
+64.28,
+" week."
+]
+]
+},
+{
+"start": 64.9,
+"end": 67.36,
+"text": " The big picture for 2027 is clear.",
+"words": [
+[
+64.9,
+64.94,
+" The"
+],
+[
+64.94,
+65.2,
+" big"
+],
+[
+65.2,
+65.54,
+" picture"
+],
+[
+65.54,
+65.76,
+" for"
+],
+[
+65.76,
+66.58,
+" 2027"
+],
+[
+66.58,
+66.9,
+" is"
+],
+[
+66.9,
+67.36,
+" clear."
+]
+]
+},
+{
+"start": 67.84,
+"end": 73.58,
+"text": " Between rising part decaps, changing formularies, and Medicare Advantage networks shifting across",
+"words": [
+[
+67.84,
+68.14,
+" Between"
+],
+[
+68.14,
+68.6,
+" rising"
+],
+[
+68.6,
+68.9,
+" part"
+],
+[
+68.9,
+69.56,
+" decaps,"
+],
+[
+69.96,
+70.22,
+" changing"
+],
+[
+70.22,
+71.02,
+" formularies,"
+],
+[
+71.26,
+71.42,
+" and"
+],
+[
+71.42,
+71.8,
+" Medicare"
+],
+[
+71.8,
+72.26,
+" Advantage"
+],
+[
+72.26,
+72.7,
+" networks"
+],
+[
+72.7,
+73.16,
+" shifting"
+],
+[
+73.16,
+73.58,
+" across"
+]
+]
+},
+{
+"start": 73.58,
+"end": 77.88,
+"text": " counties, reviewing your coverage before December 7th is essential.",
+"words": [
+[
+73.58,
+74.1,
+" counties,"
+],
+[
+74.54,
+74.86,
+" reviewing"
+],
+[
+74.86,
+75.16,
+" your"
+],
+[
+75.16,
+75.54,
+" coverage"
+],
+[
+75.54,
+76.04,
+" before"
+],
+[
+76.04,
+76.42,
+" December"
+],
+[
+76.42,
+77.08,
+" 7th"
+],
+[
+77.08,
+77.24,
+" is"
+],
+[
+77.24,
+77.88,
+" essential."
+]
+]
+},
+{
+"start": 77.88,
+"end": 84.4,
+"text": " To compare plan prices and check your prescriptions on the official government website, visit Medicare.gov.",
+"words": [
+[
+77.88,
+78.56,
+" To"
+],
+[
+78.56,
+78.94,
+" compare"
+],
+[
+78.94,
+79.24,
+" plan"
+],
+[
+79.24,
+79.64,
+" prices"
+],
+[
+79.64,
+79.9,
+" and"
+],
+[
+79.9,
+80.12,
+" check"
+],
+[
+80.12,
+80.28,
+" your"
+],
+[
+80.28,
+80.7,
+" prescriptions"
+],
+[
+80.7,
+81.0,
+" on"
+],
+[
+81.0,
+81.12,
+" the"
+],
+[
+81.12,
+81.44,
+" official"
+],
+[
+81.44,
+81.82,
+" government"
+],
+[
+81.82,
+82.4,
+" website,"
+],
+[
+82.84,
+83.04,
+" visit"
+],
+[
+83.04,
+83.48,
+" Medicare"
+],
+[
+83.48,
+84.4,
+".gov."
+]
+]
+},
+{
+"start": 85.0,
+"end": 89.42,
+"text": " And if you would like to speak directly with a licensed consultant about your 2027 options,",
+"words": [
+[
+85.0,
+85.04,
+" And"
+],
+[
+85.04,
+85.14,
+" if"
+],
+[
+85.14,
+85.26,
+" you"
+],
+[
+85.26,
+85.36,
+" would"
+],
+[
+85.36,
+85.52,
+" like"
+],
+[
+85.52,
+85.64,
+" to"
+],
+[
+85.64,
+85.88,
+" speak"
+],
+[
+85.88,
+86.32,
+" directly"
+],
+[
+86.32,
+86.6,
+" with"
+],
+[
+86.6,
+86.78,
+" a"
+],
+[
+86.78,
+87.06,
+" licensed"
+],
+[
+87.06,
+87.52,
+" consultant"
+],
+[
+87.52,
+87.88,
+" about"
+],
+[
+87.88,
+88.06,
+" your"
+],
+[
+88.06,
+88.86,
+" 2027"
+],
+[
+88.86,
+89.42,
+" options,"
+]
+]
+},
+{
+"start": 89.86,
+"end": 97.76,
+"text": " call Allen & Associates at 800-324-9986 or visit AllenandAssociates.agency.",
+"words": [
+[
+89.86,
+90.06,
+" call"
+],
+[
+90.06,
+90.44,
+" Allen"
+],
+[
+90.44,
+90.58,
+" &"
+],
+[
+90.58,
+90.96,
+" Associates"
+],
+[
+90.96,
+91.62,
+" at"
+],
+[
+91.62,
+92.22,
+" 800"
+],
+[
+92.22,
+93.1,
+"-324"
+],
+[
+93.1,
+94.8,
+"-9986"
+],
+[
+94.8,
+95.52,
+" or"
+],
+[
+95.52,
+95.92,
+" visit"
+],
+[
+95.92,
+97.08,
+" AllenandAssociates"
+],
+[
+97.08,
+97.76,
+".agency."
+]
+]
+}
+]
