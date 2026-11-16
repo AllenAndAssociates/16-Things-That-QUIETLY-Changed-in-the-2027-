@@ -28,7 +28,7 @@ f=int(xf*SR); m1[-f:]*=np.linspace(1,0,f)[:,None]**.5
 m2=m2.copy(); m2[:f]*=np.linspace(0,1,f)[:,None]**.5
 place(mus,m1,0); place(mus,m2,s2)
 mr=rms_db(mus)
-target=vr-17.0   # music bed ~17 dB under voice
+target=vr-29.0   # music bed ~29 dB under voice (subtle)
 g0=10**((target-mr)/20)
 t=np.arange(N)/SR
 env=np.full(N,g0,np.float32)
@@ -41,13 +41,17 @@ db=lambda d:10**(d/20)
 ramp(115.50,115.56,g0,0); setv(115.56,131.2,0); ramp(131.2,132.2,0,g0)
 ramp(249.95,250.0,g0,0); setv(250.0,263.85,0); ramp(263.85,264.6,0,g0)
 # CTA swell (+4 dB) then end lift
-ramp(376.9,379.0,g0,g0*db(4)); setv(379.0,409.4,g0*db(4)); ramp(409.4,410.2,g0*db(4),g0*db(9)); setv(410.2,411.4,g0*db(9)); ramp(411.4,412.4,g0*db(9),0)
+ramp(376.9,379.0,g0,g0*db(2)); setv(379.0,409.4,g0*db(2)); ramp(409.4,410.2,g0*db(2),g0*db(10)); setv(410.2,411.4,g0*db(10)); ramp(411.4,412.4,g0*db(10),0)
 mus*=env[:,None]
 # sfx
 meta=json.load(open(S+'/meta/meta.json'))
 cache={}
 sfx=np.zeros((N,2),np.float32)
+SKIP={'pageturn','highlighter','tick','dialtick','ratchet','riser'}
+KEEP_SOFT={'pop2':.6,'pop':.7,'click':.6}
 for tt,name,g,p in meta['sfx']:
+    if name in SKIP: continue
+    g*=KEEP_SOFT.get(name,1.0)
     if name not in cache:
         x=dec(f'{S}/sfx/{name}.mp3')
         # trim leading silence
@@ -59,7 +63,7 @@ for tt,name,g,p in meta['sfx']:
     if abs(p-1)>1e-3:
         idx=np.arange(0,len(x)-1,p); x=np.stack([np.interp(idx,np.arange(len(x)),x[:,c]) for c in (0,1)],1).astype(np.float32)
     place(sfx,x*g,tt)
-mix=voice+mus+sfx*0.85
+mix=voice+mus+sfx*0.28
 import wave
 pk=np.abs(mix).max(); print('peak',pk)
 out=(np.clip(mix,-1,1)*32767).astype(np.int16)
