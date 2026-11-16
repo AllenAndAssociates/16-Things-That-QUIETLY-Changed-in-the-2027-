@@ -1,0 +1,88 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+Style: Hook,Inter Black,68,&H00FFFFFF,&H00FFFFFF,&H003A1F0B,&H003A1F0B,0,0,0,0,100,100,0,0,3,22,0,8,60,60,110,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.11,0:00:00.11,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}MEDICARE{\C&HFFFFFF&}
+Dialogue: 1,0:00:00.11,0:00:00.57,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}TIGHTENED{\C&HFFFFFF&} ITS
+Dialogue: 1,0:00:00.57,0:00:00.81,Cap,,0,0,0,,{\pos(540,735)}TIGHTENED {\C&H4BC9F3&}ITS{\C&HFFFFFF&}
+Dialogue: 1,0:00:00.81,0:00:01.27,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}CITIZENSHIP{\C&HFFFFFF&} AND
+Dialogue: 1,0:00:01.27,0:00:01.67,Cap,,0,0,0,,{\pos(540,735)}CITIZENSHIP {\C&H4BC9F3&}AND{\C&HFFFFFF&}
+Dialogue: 1,0:00:01.67,0:00:02.17,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}IMMIGRATION{\C&HFFFFFF&}
+Dialogue: 1,0:00:02.17,0:00:02.89,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}ELIGIBILITY{\C&HFFFFFF&} RULES
+Dialogue: 1,0:00:02.89,0:00:03.21,Cap,,0,0,0,,{\pos(540,735)}ELIGIBILITY {\C&H4BC9F3&}RULES{\C&HFFFFFF&}
+Dialogue: 1,0:00:03.21,0:00:03.49,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}FOR{\C&HFFFFFF&} 2027.
+Dialogue: 1,0:00:03.49,0:00:04.50,Cap,,0,0,0,,{\pos(540,735)}FOR {\C&H4BC9F3&}2027.{\C&HFFFFFF&}
+Dialogue: 1,0:00:04.63,0:00:05.01,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}TO{\C&HFFFFFF&} ENROLL IN
+Dialogue: 1,0:00:05.01,0:00:05.29,Cap,,0,0,0,,{\pos(540,735)}TO {\C&H4BC9F3&}ENROLL{\C&HFFFFFF&} IN
+Dialogue: 1,0:00:05.29,0:00:05.53,Cap,,0,0,0,,{\pos(540,735)}TO ENROLL {\C&H4BC9F3&}IN{\C&HFFFFFF&}
+Dialogue: 1,0:00:05.53,0:00:05.89,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}MEDICARE{\C&HFFFFFF&} OR A
+Dialogue: 1,0:00:05.89,0:00:06.35,Cap,,0,0,0,,{\pos(540,735)}MEDICARE {\C&H4BC9F3&}OR{\C&HFFFFFF&} A
+Dialogue: 1,0:00:06.35,0:00:06.55,Cap,,0,0,0,,{\pos(540,735)}MEDICARE OR {\C&H4BC9F3&}A{\C&HFFFFFF&}
+Dialogue: 1,0:00:06.55,0:00:06.71,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}PART{\C&HFFFFFF&} D DRUG
+Dialogue: 1,0:00:06.71,0:00:06.97,Cap,,0,0,0,,{\pos(540,735)}PART {\C&H4BC9F3&}D{\C&HFFFFFF&} DRUG
+Dialogue: 1,0:00:06.97,0:00:07.23,Cap,,0,0,0,,{\pos(540,735)}PART D {\C&H4BC9F3&}DRUG{\C&HFFFFFF&}
+Dialogue: 1,0:00:07.23,0:00:07.82,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}PLAN,{\C&HFFFFFF&}
+Dialogue: 1,0:00:08.25,0:00:08.33,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}APPLICANTS{\C&HFFFFFF&} MUST
+Dialogue: 1,0:00:08.33,0:00:08.65,Cap,,0,0,0,,{\pos(540,735)}APPLICANTS {\C&H4BC9F3&}MUST{\C&HFFFFFF&}
+Dialogue: 1,0:00:08.65,0:00:08.99,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}NOW{\C&HFFFFFF&} BE U.S.
+Dialogue: 1,0:00:08.99,0:00:09.23,Cap,,0,0,0,,{\pos(540,735)}NOW {\C&H4BC9F3&}BE{\C&HFFFFFF&} U.S.
+Dialogue: 1,0:00:09.23,0:00:09.65,Cap,,0,0,0,,{\pos(540,735)}NOW BE {\C&H4BC9F3&}U.S.{\C&HFFFFFF&}
+Dialogue: 1,0:00:09.65,0:00:10.20,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}CITIZENS,{\C&HFFFFFF&}
+Dialogue: 1,0:00:10.49,0:00:10.85,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}U.S.{\C&HFFFFFF&}
+Dialogue: 1,0:00:10.85,0:00:11.40,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}NATIONALS,{\C&HFFFFFF&}
+Dialogue: 1,0:00:12.03,0:00:12.03,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}LAWFUL{\C&HFFFFFF&} PERMANENT
+Dialogue: 1,0:00:12.03,0:00:12.53,Cap,,0,0,0,,{\pos(540,735)}LAWFUL {\C&H4BC9F3&}PERMANENT{\C&HFFFFFF&}
+Dialogue: 1,0:00:12.53,0:00:12.83,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}GREEN{\C&HFFFFFF&} CARD
+Dialogue: 1,0:00:12.83,0:00:13.07,Cap,,0,0,0,,{\pos(540,735)}GREEN {\C&H4BC9F3&}CARD{\C&HFFFFFF&}
+Dialogue: 1,0:00:13.07,0:00:13.64,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}HOLDERS,{\C&HFFFFFF&}
+Dialogue: 1,0:00:13.83,0:00:14.07,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}OR{\C&HFFFFFF&} SPECIFIC
+Dialogue: 1,0:00:14.07,0:00:14.53,Cap,,0,0,0,,{\pos(540,735)}OR {\C&H4BC9F3&}SPECIFIC{\C&HFFFFFF&}
+Dialogue: 1,0:00:14.53,0:00:15.24,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}CUBAN,{\C&HFFFFFF&}
+Dialogue: 1,0:00:15.51,0:00:15.88,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}HAITIAN,{\C&HFFFFFF&}
+Dialogue: 1,0:00:16.05,0:00:16.17,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}OR{\C&HFFFFFF&} COFA MIGRANTS,
+Dialogue: 1,0:00:16.17,0:00:16.77,Cap,,0,0,0,,{\pos(540,735)}OR {\C&H4BC9F3&}COFA{\C&HFFFFFF&} MIGRANTS,
+Dialogue: 1,0:00:16.77,0:00:17.46,Cap,,0,0,0,,{\pos(540,735)}OR COFA {\C&H4BC9F3&}MIGRANTS,{\C&HFFFFFF&}
+Dialogue: 1,0:00:17.75,0:00:18.01,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}MEANING{\C&HFFFFFF&} CERTAIN
+Dialogue: 1,0:00:18.01,0:00:18.39,Cap,,0,0,0,,{\pos(540,735)}MEANING {\C&H4BC9F3&}CERTAIN{\C&HFFFFFF&}
+Dialogue: 1,0:00:18.39,0:00:19.08,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}REFUGEES,{\C&HFFFFFF&}
+Dialogue: 1,0:00:19.39,0:00:19.77,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}ASYLUM{\C&HFFFFFF&} SEEKERS,
+Dialogue: 1,0:00:19.77,0:00:20.30,Cap,,0,0,0,,{\pos(540,735)}ASYLUM {\C&H4BC9F3&}SEEKERS,{\C&HFFFFFF&}
+Dialogue: 1,0:00:20.49,0:00:20.67,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}AND{\C&HFFFFFF&} TEMPORARY
+Dialogue: 1,0:00:20.67,0:00:21.17,Cap,,0,0,0,,{\pos(540,735)}AND {\C&H4BC9F3&}TEMPORARY{\C&HFFFFFF&}
+Dialogue: 1,0:00:21.17,0:00:21.65,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}PROTECTED{\C&HFFFFFF&} STATUS
+Dialogue: 1,0:00:21.65,0:00:22.11,Cap,,0,0,0,,{\pos(540,735)}PROTECTED {\C&H4BC9F3&}STATUS{\C&HFFFFFF&}
+Dialogue: 1,0:00:22.11,0:00:22.43,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}GROUPS{\C&HFFFFFF&} NO LONGER
+Dialogue: 1,0:00:22.43,0:00:22.81,Cap,,0,0,0,,{\pos(540,735)}GROUPS {\C&H4BC9F3&}NO{\C&HFFFFFF&} LONGER
+Dialogue: 1,0:00:22.81,0:00:23.17,Cap,,0,0,0,,{\pos(540,735)}GROUPS NO {\C&H4BC9F3&}LONGER{\C&HFFFFFF&}
+Dialogue: 1,0:00:23.17,0:00:23.94,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}QUALIFY.{\C&HFFFFFF&}
+Dialogue: 1,0:00:24.05,0:00:24.25,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}THIS{\C&HFFFFFF&} IS ONE
+Dialogue: 1,0:00:24.25,0:00:24.43,Cap,,0,0,0,,{\pos(540,1595)}THIS {\C&H4BC9F3&}IS{\C&HFFFFFF&} ONE
+Dialogue: 1,0:00:24.43,0:00:24.73,Cap,,0,0,0,,{\pos(540,1595)}THIS IS {\C&H4BC9F3&}ONE{\C&HFFFFFF&}
+Dialogue: 1,0:00:24.73,0:00:24.99,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}OF{\C&HFFFFFF&} 16 CHANGES
+Dialogue: 1,0:00:24.99,0:00:25.43,Cap,,0,0,0,,{\pos(540,1595)}OF {\C&H4BC9F3&}16{\C&HFFFFFF&} CHANGES
+Dialogue: 1,0:00:25.43,0:00:25.99,Cap,,0,0,0,,{\pos(540,1595)}OF 16 {\C&H4BC9F3&}CHANGES{\C&HFFFFFF&}
+Dialogue: 1,0:00:25.99,0:00:26.37,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}IN{\C&HFFFFFF&} THE 2027
+Dialogue: 1,0:00:26.37,0:00:26.47,Cap,,0,0,0,,{\pos(540,1595)}IN {\C&H4BC9F3&}THE{\C&HFFFFFF&} 2027
+Dialogue: 1,0:00:26.47,0:00:27.53,Cap,,0,0,0,,{\pos(540,1595)}IN THE {\C&H4BC9F3&}2027{\C&HFFFFFF&}
+Dialogue: 1,0:00:27.53,0:00:28.15,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}MEDICARE{\C&HFFFFFF&}
+Dialogue: 1,0:00:28.15,0:00:28.94,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}HANDBOOK.{\C&HFFFFFF&}
+Dialogue: 1,0:00:29.05,0:00:29.15,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}WATCH{\C&HFFFFFF&} THE FULL
+Dialogue: 1,0:00:29.15,0:00:29.35,Cap,,0,0,0,,{\pos(540,1595)}WATCH {\C&H4BC9F3&}THE{\C&HFFFFFF&} FULL
+Dialogue: 1,0:00:29.35,0:00:29.57,Cap,,0,0,0,,{\pos(540,1595)}WATCH THE {\C&H4BC9F3&}FULL{\C&HFFFFFF&}
+Dialogue: 1,0:00:29.57,0:00:30.07,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}BREAKDOWN{\C&HFFFFFF&} BEFORE
+Dialogue: 1,0:00:30.07,0:00:30.57,Cap,,0,0,0,,{\pos(540,1595)}BREAKDOWN {\C&H4BC9F3&}BEFORE{\C&HFFFFFF&}
+Dialogue: 1,0:00:30.57,0:00:30.95,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}DECEMBER{\C&HFFFFFF&} 7TH.
+Dialogue: 1,0:00:30.95,0:00:31.77,Cap,,0,0,0,,{\pos(540,1595)}DECEMBER {\C&H4BC9F3&}7TH.{\C&HFFFFFF&}
+Dialogue: 1,0:00:31.77,0:00:31.79,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}THE{\C&HFFFFFF&} LINK IS
+Dialogue: 1,0:00:31.79,0:00:31.99,Cap,,0,0,0,,{\pos(540,1595)}THE {\C&H4BC9F3&}LINK{\C&HFFFFFF&} IS
+Dialogue: 1,0:00:31.99,0:00:32.19,Cap,,0,0,0,,{\pos(540,1595)}THE LINK {\C&H4BC9F3&}IS{\C&HFFFFFF&}
+Dialogue: 1,0:00:32.19,0:00:32.43,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}RIGHT{\C&HFFFFFF&} BELOW.
+Dialogue: 1,0:00:32.43,0:00:32.94,Cap,,0,0,0,,{\pos(540,1595)}RIGHT {\C&H4BC9F3&}BELOW.{\C&HFFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:02.90,Hook,,0,0,0,,{\fad(150,250)}NEW 2027 MEDICARE{\C&H4BC9F3&}\NELIGIBILITY RULES

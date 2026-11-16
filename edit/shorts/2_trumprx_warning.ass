@@ -1,0 +1,94 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Cap,Inter Black,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,0,0,0,0,100,100,0,0,1,7,3,5,40,40,0,1
+Style: Hook,Inter Black,68,&H00FFFFFF,&H00FFFFFF,&H003A1F0B,&H003A1F0B,0,0,0,0,100,100,0,0,3,22,0,8,60,60,110,1
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.12,0:00:00.24,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}THE{\C&HFFFFFF&} HANDBOOK
+Dialogue: 1,0:00:00.24,0:00:00.66,Cap,,0,0,0,,{\pos(540,735)}THE {\C&H4BC9F3&}HANDBOOK{\C&HFFFFFF&}
+Dialogue: 1,0:00:00.66,0:00:01.18,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}ADDRESSES{\C&HFFFFFF&}
+Dialogue: 1,0:00:01.18,0:00:02.33,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}TRUMPRX,{\C&HFFFFFF&}
+Dialogue: 1,0:00:02.44,0:00:02.62,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}A{\C&HFFFFFF&} NEW
+Dialogue: 1,0:00:02.62,0:00:02.84,Cap,,0,0,0,,{\pos(540,735)}A {\C&H4BC9F3&}NEW{\C&HFFFFFF&}
+Dialogue: 1,0:00:02.84,0:00:03.22,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}PRESCRIPTION{\C&HFFFFFF&}
+Dialogue: 1,0:00:03.22,0:00:03.82,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}DISCOUNT{\C&HFFFFFF&} WEBSITE
+Dialogue: 1,0:00:03.82,0:00:04.30,Cap,,0,0,0,,{\pos(540,735)}DISCOUNT {\C&H4BC9F3&}WEBSITE{\C&HFFFFFF&}
+Dialogue: 1,0:00:04.30,0:00:04.56,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}THAT{\C&HFFFFFF&} WORKS MUCH
+Dialogue: 1,0:00:04.56,0:00:04.80,Cap,,0,0,0,,{\pos(540,735)}THAT {\C&H4BC9F3&}WORKS{\C&HFFFFFF&} MUCH
+Dialogue: 1,0:00:04.80,0:00:05.12,Cap,,0,0,0,,{\pos(540,735)}THAT WORKS {\C&H4BC9F3&}MUCH{\C&HFFFFFF&}
+Dialogue: 1,0:00:05.12,0:00:05.40,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}LIKE{\C&HFFFFFF&} GOODRX WITH
+Dialogue: 1,0:00:05.40,0:00:06.08,Cap,,0,0,0,,{\pos(540,735)}LIKE {\C&H4BC9F3&}GOODRX{\C&HFFFFFF&} WITH
+Dialogue: 1,0:00:06.08,0:00:06.34,Cap,,0,0,0,,{\pos(540,735)}LIKE GOODRX {\C&H4BC9F3&}WITH{\C&HFFFFFF&}
+Dialogue: 1,0:00:06.34,0:00:06.64,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}CASH{\C&HFFFFFF&} PHARMACY
+Dialogue: 1,0:00:06.64,0:00:07.12,Cap,,0,0,0,,{\pos(540,735)}CASH {\C&H4BC9F3&}PHARMACY{\C&HFFFFFF&}
+Dialogue: 1,0:00:07.12,0:00:07.71,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}COUPONS.{\C&HFFFFFF&}
+Dialogue: 1,0:00:08.25,0:00:08.56,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}HERE{\C&HFFFFFF&} IS THE
+Dialogue: 1,0:00:08.56,0:00:08.80,Cap,,0,0,0,,{\pos(540,735)}HERE {\C&H4BC9F3&}IS{\C&HFFFFFF&} THE
+Dialogue: 1,0:00:08.80,0:00:09.00,Cap,,0,0,0,,{\pos(540,735)}HERE IS {\C&H4BC9F3&}THE{\C&HFFFFFF&}
+Dialogue: 1,0:00:09.00,0:00:09.38,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}CRITICAL{\C&HFFFFFF&} WARNING.
+Dialogue: 1,0:00:09.38,0:00:09.99,Cap,,0,0,0,,{\pos(540,735)}CRITICAL {\C&H4BC9F3&}WARNING.{\C&HFFFFFF&}
+Dialogue: 1,0:00:10.60,0:00:11.16,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}TRUMPRX{\C&HFFFFFF&} IS NOT
+Dialogue: 1,0:00:11.16,0:00:11.42,Cap,,0,0,0,,{\pos(540,735)}TRUMPRX {\C&H4BC9F3&}IS{\C&HFFFFFF&} NOT
+Dialogue: 1,0:00:11.42,0:00:11.80,Cap,,0,0,0,,{\pos(540,735)}TRUMPRX IS {\C&H4BC9F3&}NOT{\C&HFFFFFF&}
+Dialogue: 1,0:00:11.80,0:00:12.12,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}PART{\C&HFFFFFF&} OF MEDICARE
+Dialogue: 1,0:00:12.12,0:00:12.28,Cap,,0,0,0,,{\pos(540,735)}PART {\C&H4BC9F3&}OF{\C&HFFFFFF&} MEDICARE
+Dialogue: 1,0:00:12.28,0:00:12.70,Cap,,0,0,0,,{\pos(540,735)}PART OF {\C&H4BC9F3&}MEDICARE{\C&HFFFFFF&}
+Dialogue: 1,0:00:12.70,0:00:13.12,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}OR{\C&HFFFFFF&} PART D,
+Dialogue: 1,0:00:13.12,0:00:13.38,Cap,,0,0,0,,{\pos(540,735)}OR {\C&H4BC9F3&}PART{\C&HFFFFFF&} D,
+Dialogue: 1,0:00:13.38,0:00:13.87,Cap,,0,0,0,,{\pos(540,735)}OR PART {\C&H4BC9F3&}D,{\C&HFFFFFF&}
+Dialogue: 1,0:00:13.96,0:00:14.24,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}SO{\C&HFFFFFF&} ANY CASH
+Dialogue: 1,0:00:14.24,0:00:14.62,Cap,,0,0,0,,{\pos(540,735)}SO {\C&H4BC9F3&}ANY{\C&HFFFFFF&} CASH
+Dialogue: 1,0:00:14.62,0:00:14.90,Cap,,0,0,0,,{\pos(540,735)}SO ANY {\C&H4BC9F3&}CASH{\C&HFFFFFF&}
+Dialogue: 1,0:00:14.90,0:00:15.30,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}COUPON{\C&HFFFFFF&} YOU USE
+Dialogue: 1,0:00:15.30,0:00:15.50,Cap,,0,0,0,,{\pos(540,735)}COUPON {\C&H4BC9F3&}YOU{\C&HFFFFFF&} USE
+Dialogue: 1,0:00:15.50,0:00:15.80,Cap,,0,0,0,,{\pos(540,735)}COUPON YOU {\C&H4BC9F3&}USE{\C&HFFFFFF&}
+Dialogue: 1,0:00:15.80,0:00:16.06,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}THERE{\C&HFFFFFF&} WILL ALMOST
+Dialogue: 1,0:00:16.06,0:00:16.24,Cap,,0,0,0,,{\pos(540,735)}THERE {\C&H4BC9F3&}WILL{\C&HFFFFFF&} ALMOST
+Dialogue: 1,0:00:16.24,0:00:16.62,Cap,,0,0,0,,{\pos(540,735)}THERE WILL {\C&H4BC9F3&}ALMOST{\C&HFFFFFF&}
+Dialogue: 1,0:00:16.62,0:00:17.08,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}NEVER{\C&HFFFFFF&} COUNT
+Dialogue: 1,0:00:17.08,0:00:17.46,Cap,,0,0,0,,{\pos(540,735)}NEVER {\C&H4BC9F3&}COUNT{\C&HFFFFFF&}
+Dialogue: 1,0:00:17.46,0:00:17.74,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}TOWARD{\C&HFFFFFF&} YOUR PART
+Dialogue: 1,0:00:17.74,0:00:17.90,Cap,,0,0,0,,{\pos(540,735)}TOWARD {\C&H4BC9F3&}YOUR{\C&HFFFFFF&} PART
+Dialogue: 1,0:00:17.90,0:00:18.14,Cap,,0,0,0,,{\pos(540,735)}TOWARD YOUR {\C&H4BC9F3&}PART{\C&HFFFFFF&}
+Dialogue: 1,0:00:18.14,0:00:18.36,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}D{\C&HFFFFFF&} DEDUCTIBLE OR
+Dialogue: 1,0:00:18.36,0:00:18.76,Cap,,0,0,0,,{\pos(540,735)}D {\C&H4BC9F3&}DEDUCTIBLE{\C&HFFFFFF&} OR
+Dialogue: 1,0:00:18.76,0:00:19.48,Cap,,0,0,0,,{\pos(540,735)}D DEDUCTIBLE {\C&H4BC9F3&}OR{\C&HFFFFFF&}
+Dialogue: 1,0:00:19.48,0:00:19.68,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}YOUR{\C&HFFFFFF&} $2,400
+Dialogue: 1,0:00:19.68,0:00:20.52,Cap,,0,0,0,,{\pos(540,735)}YOUR {\C&H4BC9F3&}$2,400{\C&HFFFFFF&}
+Dialogue: 1,0:00:20.52,0:00:21.24,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}ANNUAL{\C&HFFFFFF&}
+Dialogue: 1,0:00:21.24,0:00:21.92,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}OUT-OF-POCKET{\C&HFFFFFF&}
+Dialogue: 1,0:00:21.92,0:00:22.43,Cap,,0,0,0,,{\pos(540,735)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}CAP.{\C&HFFFFFF&}
+Dialogue: 1,0:00:22.55,0:00:22.71,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}AND{\C&HFFFFFF&} THAT'S ONLY
+Dialogue: 1,0:00:22.71,0:00:22.97,Cap,,0,0,0,,{\pos(540,1595)}AND {\C&H4BC9F3&}THAT'S{\C&HFFFFFF&} ONLY
+Dialogue: 1,0:00:22.97,0:00:23.17,Cap,,0,0,0,,{\pos(540,1595)}AND THAT'S {\C&H4BC9F3&}ONLY{\C&HFFFFFF&}
+Dialogue: 1,0:00:23.17,0:00:23.51,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}ONE{\C&HFFFFFF&} WARNING.
+Dialogue: 1,0:00:23.51,0:00:24.02,Cap,,0,0,0,,{\pos(540,1595)}ONE {\C&H4BC9F3&}WARNING.{\C&HFFFFFF&}
+Dialogue: 1,0:00:24.13,0:00:24.21,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}I{\C&HFFFFFF&} BREAK DOWN
+Dialogue: 1,0:00:24.21,0:00:24.41,Cap,,0,0,0,,{\pos(540,1595)}I {\C&H4BC9F3&}BREAK{\C&HFFFFFF&} DOWN
+Dialogue: 1,0:00:24.41,0:00:24.73,Cap,,0,0,0,,{\pos(540,1595)}I BREAK {\C&H4BC9F3&}DOWN{\C&HFFFFFF&}
+Dialogue: 1,0:00:24.73,0:00:24.93,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}ALL{\C&HFFFFFF&} 16 CHANGES
+Dialogue: 1,0:00:24.93,0:00:25.35,Cap,,0,0,0,,{\pos(540,1595)}ALL {\C&H4BC9F3&}16{\C&HFFFFFF&} CHANGES
+Dialogue: 1,0:00:25.35,0:00:25.97,Cap,,0,0,0,,{\pos(540,1595)}ALL 16 {\C&H4BC9F3&}CHANGES{\C&HFFFFFF&}
+Dialogue: 1,0:00:25.97,0:00:26.43,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}HIDING{\C&HFFFFFF&} IN THE
+Dialogue: 1,0:00:26.43,0:00:26.67,Cap,,0,0,0,,{\pos(540,1595)}HIDING {\C&H4BC9F3&}IN{\C&HFFFFFF&} THE
+Dialogue: 1,0:00:26.67,0:00:26.81,Cap,,0,0,0,,{\pos(540,1595)}HIDING IN {\C&H4BC9F3&}THE{\C&HFFFFFF&}
+Dialogue: 1,0:00:26.81,0:00:27.91,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}2027{\C&HFFFFFF&} MEDICARE
+Dialogue: 1,0:00:27.91,0:00:28.45,Cap,,0,0,0,,{\pos(540,1595)}2027 {\C&H4BC9F3&}MEDICARE{\C&HFFFFFF&}
+Dialogue: 1,0:00:28.45,0:00:29.13,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}HANDBOOK{\C&HFFFFFF&} IN THE
+Dialogue: 1,0:00:29.13,0:00:29.37,Cap,,0,0,0,,{\pos(540,1595)}HANDBOOK {\C&H4BC9F3&}IN{\C&HFFFFFF&} THE
+Dialogue: 1,0:00:29.37,0:00:29.51,Cap,,0,0,0,,{\pos(540,1595)}HANDBOOK IN {\C&H4BC9F3&}THE{\C&HFFFFFF&}
+Dialogue: 1,0:00:29.51,0:00:29.73,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}FULL{\C&HFFFFFF&} VIDEO.
+Dialogue: 1,0:00:29.73,0:00:30.32,Cap,,0,0,0,,{\pos(540,1595)}FULL {\C&H4BC9F3&}VIDEO.{\C&HFFFFFF&}
+Dialogue: 1,0:00:30.51,0:00:30.57,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}TAP{\C&HFFFFFF&} THE LINK
+Dialogue: 1,0:00:30.57,0:00:30.77,Cap,,0,0,0,,{\pos(540,1595)}TAP {\C&H4BC9F3&}THE{\C&HFFFFFF&} LINK
+Dialogue: 1,0:00:30.77,0:00:30.95,Cap,,0,0,0,,{\pos(540,1595)}TAP THE {\C&H4BC9F3&}LINK{\C&HFFFFFF&}
+Dialogue: 1,0:00:30.95,0:00:31.27,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}BELOW{\C&HFFFFFF&} TO WATCH
+Dialogue: 1,0:00:31.27,0:00:31.51,Cap,,0,0,0,,{\pos(540,1595)}BELOW {\C&H4BC9F3&}TO{\C&HFFFFFF&} WATCH
+Dialogue: 1,0:00:31.51,0:00:31.77,Cap,,0,0,0,,{\pos(540,1595)}BELOW TO {\C&H4BC9F3&}WATCH{\C&HFFFFFF&}
+Dialogue: 1,0:00:31.77,0:00:32.12,Cap,,0,0,0,,{\pos(540,1595)}{\fscx108\fscy108\t(0,90,\fscx100\fscy100)}{\C&H4BC9F3&}IT.{\C&HFFFFFF&}
+Dialogue: 2,0:00:00.00,0:00:02.90,Hook,,0,0,0,,{\fad(150,250)}USING TRUMPRX OR GOODRX?{\C&H4BC9F3&}\NREAD THIS FIRST
